@@ -1,6 +1,6 @@
 # Ein- und Ausgabeformat
 
-Diese Beschreibung ergänzt die Aufgabe in [`kata.md`](kata.md). Sie
+Diese Beschreibung ergänzt die Aufgabe in [`kata_de.md`](kata_de.md). Sie
 sagt, *wie* das Programm angesprochen wird — nicht, *was* es rechnet.
 Die Rechenregeln stehen ausschließlich in der Aufgabe.
 

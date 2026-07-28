@@ -4,7 +4,7 @@ This description complements the task in [`kata_en.md`](kata_en.md). It
 says *how* the program is invoked — not *what* it computes. The
 calculation rules live exclusively in the task.
 
-> *Deutsche Fassung: [`io-format.md`](io-format.md)*
+> *Deutsche Fassung: [`io-format_de.md`](io-format_de.md)*
 
 The field names are **binding** — renaming or restructuring them is not
 at your discretion.

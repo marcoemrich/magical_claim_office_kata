@@ -2,7 +2,7 @@
 
 — or, since even assessors struggle with that: the MHPCO.
 
-> *Deutsche Fassung: [`kata.md`](kata.md)*
+> *Deutsche Fassung: [`kata_de.md`](kata_de.md)*
 
 ## A brief introduction
 
