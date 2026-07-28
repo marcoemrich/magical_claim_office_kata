@@ -5,8 +5,10 @@ Begleitmaterial für den Trainer. **Nicht für Teilnehmer**.
 Enthält die Festlegungen der Schadenskasse zu allen Mehrdeutigkeiten —
 also die Antworten, die die Gruppe erarbeiten soll.
 
+> *English version: [`trainer-notes_en.md`](trainer-notes_en.md)*
+
 Ein Vorschlag für den Ablauf im Workshop steht separat in
-[`workshop-durchfuehrung.md`](workshop-durchfuehrung.md).
+[`workshop-durchfuehrung_de.md`](workshop-durchfuehrung_de.md).
 
 ## Setting
 
@@ -20,12 +22,12 @@ unangetastet.
 Verifikations-Szenarien (zur Wertekontrolle / Demonstration, nachdem
 die Gruppe ihre Festlegungen getroffen hat):
 [`verifikation/`](verifikation/) — zehn Szenarien mit Erläuterung in
-[`verifikation/README.md`](verifikation/README.md).
+[`verifikation/anleitung_de.md`](verifikation/anleitung_de.md).
 
 ## Liste der Mehrdeutigkeiten
 
-Fünf Haupt-Mehrdeutigkeiten plus eine Sub-Mehrdeutigkeit. Die Liste
-folgt der internen Numerierung aus `kata-mehrdeutigkeiten.md`.
+Fünf Haupt-Mehrdeutigkeiten plus eine Sub-Mehrdeutigkeit. Die
+Buchstaben folgen der internen Numerierung der Kata.
 
 ### A — Set-Wertung mit Überzähligen
 

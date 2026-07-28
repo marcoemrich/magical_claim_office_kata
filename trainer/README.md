@@ -1,29 +1,30 @@
-# Trainer-Material — Magische Schadenskasse
+# Trainer material — Magical Claim Office
 
-**Nicht für Teilnehmer.** Alles in diesem Verzeichnis verrät die
-Auflösungen: welche Lesart die Schadenskasse bei jeder Mehrdeutigkeit
-gewählt hat, und welche Werte dabei herauskommen.
+**Not for participants.** Everything in this directory gives away the
+resolutions: which reading the claims office chose for each ambiguity,
+and what values follow from it.
 
-## Was hier liegt
+## Contents
 
-| Datei | Inhalt |
-|-------|--------|
-| [`trainer-notes.md`](trainer-notes.md) | Auflösung aller Mehrdeutigkeiten und der übrigen Festlegungen. |
-| [`workshop-durchfuehrung.md`](workshop-durchfuehrung.md) | Ablaufvorschlag, Trainer-Tipps, Stolpersteine, Tonalität. |
-| [`verifikation/`](verifikation/) | Zehn Akzeptanz-Szenarien als JSON-Paare, mit [eigener Anleitung](verifikation/README.md). |
+| File | Contents |
+|------|----------|
+| [`trainer-notes_de.md`](trainer-notes_de.md) | Resolution of all ambiguities and the remaining rulings — German. |
+| [`trainer-notes_en.md`](trainer-notes_en.md) | The same — English. |
+| [`workshop-durchfuehrung_de.md`](workshop-durchfuehrung_de.md) | Suggested schedule, tips, stumbling blocks, tone — German. |
+| [`workshop-durchfuehrung_en.md`](workshop-durchfuehrung_en.md) | The same — English. |
+| [`verifikation/`](verifikation/) | Ten acceptance scenarios as JSON pairs, with instructions in [German](verifikation/anleitung_de.md) and [English](verifikation/instructions_en.md). |
 
-Das Teilnehmer-Material liegt eine Ebene höher: [`kata_de.md`](../kata_de.md)
-und [`io-format_de.md`](../io-format_de.md), jeweils auch in englischer
-Fassung.
+The participant material is one level up: [`kata_de.md`](../kata_de.md)
+and [`io-format_de.md`](../io-format_de.md), each also in English.
 
-## Warum ein eigener Branch
+## Why a separate branch
 
-Dieses Verzeichnis existiert **nur im Branch `trainer`**. Der Branch
-`main` enthält ausschließlich das Teilnehmer-Material — wer das Repo
-klont oder als ZIP herunterlädt, bekommt die Auflösungen also nicht
-versehentlich mit.
+This directory exists **only in the `trainer` branch**. The `main`
+branch contains the participant material alone — so anyone cloning the
+repo or downloading it as a ZIP does not get the resolutions by
+accident.
 
-Als Trainer arbeitest du auf `trainer`:
+As a trainer you work on `trainer`:
 
 ```bash
 git clone git@github.com:marcoemrich/magical_claim_office_kata.git
@@ -31,15 +32,14 @@ cd magical_claim_office_kata
 git checkout trainer
 ```
 
-Die Gruppe bleibt auf `main` — dort ist `trainer/` schlicht nicht
-vorhanden.
+The group stays on `main`, where `trainer/` simply does not exist.
 
-**Beim Pflegen:** Änderungen an der Aufgabe gehören auf `main` und
-werden von dort nach `trainer` gemerged, nicht umgekehrt:
+**When maintaining:** changes to the task belong on `main` and are
+merged from there into `trainer`, not the other way round:
 
 ```bash
 git checkout trainer && git merge main
 ```
 
-So bleibt `trainer` immer ein Vorlauf von `main` und die
-Teilnehmer-Dateien driften nicht auseinander.
+That way `trainer` always stays ahead of `main` and the participant
+files never drift apart.

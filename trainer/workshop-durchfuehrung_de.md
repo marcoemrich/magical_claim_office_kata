@@ -2,7 +2,9 @@
 
 Ein Vorschlag, wie sich die Kata im Workshop einsetzen lässt — einer von
 mehreren. Die inhaltlichen Festlegungen, auf die sich der Ablauf
-bezieht, stehen in [`trainer-notes.md`](trainer-notes.md).
+bezieht, stehen in [`trainer-notes_de.md`](trainer-notes_de.md).
+
+> *English version: [`workshop-durchfuehrung_en.md`](workshop-durchfuehrung_en.md)*
 
 ## Empfohlener Ablauf (Halbtag, ca. 3 h)
 
@@ -63,7 +65,7 @@ Gruppe früh wissen will, worauf sie zusteuert.
 Die zehn Szenarien in [`verifikation/szenarien/`](verifikation/szenarien/)
 lassen sich als **Akzeptanztests** vorzeigen, sobald die Gruppe ihre
 eigenen Festlegungen getroffen hat (Aufrufbeispiele und
-Erwartungstabelle: [`verifikation/README.md`](verifikation/README.md)):
+Erwartungstabelle: [`verifikation/anleitung_de.md`](verifikation/anleitung_de.md)):
 
 - 01–07: pro Mehrdeutigkeit ein Test → für Diskussion einzelner
   Regel-Auflösungen

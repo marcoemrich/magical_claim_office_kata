@@ -9,6 +9,8 @@ also genau das, was die Gruppe selbst erarbeiten soll. Sinnvoll wird
 die Ausgabe erst, wenn die Gruppe ihre eigenen Festlegungen getroffen
 hat.
 
+> *English version: [`instructions_en.md`](instructions_en.md)*
+
 ## Aufbau
 
 Jedes Szenario besteht aus zwei Dateien:
@@ -54,7 +56,7 @@ je nach Sprache und Aufbau ein anderer Befehl.
 Die Szenarien 01–07 prüfen je eine Mehrdeutigkeit einzeln, 08–10 deren
 Zusammenspiel. Die Spalte „prüft" nennt die Festlegung, die das
 Szenario festnagelt; die Herleitungen stehen in
-[`../trainer-notes.md`](../trainer-notes.md).
+[`../trainer-notes_de.md`](../trainer-notes_de.md).
 
 | # | Szenario | prüft | erwartet |
 |---|----------|-------|----------|
