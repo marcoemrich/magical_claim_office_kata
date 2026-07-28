@@ -11,9 +11,9 @@ output.
 
 | File | Contents |
 |------|----------|
-| [`kata.md`](kata.md) | The task — German. |
+| [`kata_de.md`](kata_de.md) | The task — German. |
 | [`kata_en.md`](kata_en.md) | The task — English. |
-| [`io-format.md`](io-format.md) | Input and output format — German. |
+| [`io-format_de.md`](io-format_de.md) | Input and output format — German. |
 | [`io-format_en.md`](io-format_en.md) | Input and output format — English. |
 | [`LICENSE`](LICENSE) | MIT. |
 
