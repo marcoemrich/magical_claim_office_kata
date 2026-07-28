@@ -1,25 +1,34 @@
-# Magische Schadenskasse
+# Magical Claim Office Kata
 
-Eine Kata. Eine altehrwürdige Versicherung für magische Gegenstände:
-Prämien berechnen, Schäden regulieren.
+A kata about a venerable insurance institution for magical items:
+calculating premiums and settling claims.
 
-## Was hier liegt
+The task is written as a narrative. What you build is a command-line
+program that reads JSON from standard input and writes JSON to standard
+output.
 
-| Datei | Inhalt |
-|-------|--------|
-| [`prose.md`](prose.md) | Die Aufgabe. |
-| [`ein-ausgabe-format.md`](ein-ausgabe-format.md) | Schnittstelle: Feldnamen, Struktur, Beispiel. |
+## Contents
+
+| File | Contents |
+|------|----------|
+| [`kata.md`](kata.md) | The task — German. |
+| [`kata_en.md`](kata_en.md) | The task — English. |
+| [`io-format.md`](io-format.md) | Input and output format — German. |
+| [`io-format_en.md`](io-format_en.md) | Input and output format — English. |
 | [`LICENSE`](LICENSE) | MIT. |
 
-## Sprache und Technik
+The German version is the original; the English one is a translation.
+Both describe the same kata — pick one and stay with it.
 
-Das Material ist deutsch, die JSON-Feldnamen sind englisch. Das ist
-Absicht und in `ein-ausgabe-format.md` erklärt.
+## Language and tooling
 
-Die Implementierungssprache ist **frei**. Verlangt ist nur ein
-Kommandozeilen-Programm, das JSON von der Standardeingabe liest und
-JSON auf die Standardausgabe schreibt.
+The material comes in German and English. The JSON field names are
+English in both, and they are binding.
 
-## Lizenz
+The implementation language is **free**. Nothing beyond a command-line
+program reading JSON from stdin and writing JSON to stdout is required —
+no particular language, framework, or project layout.
 
-MIT — siehe [`LICENSE`](LICENSE).
+## License
+
+MIT — see [`LICENSE`](LICENSE).

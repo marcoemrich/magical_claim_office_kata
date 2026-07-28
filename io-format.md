@@ -1,8 +1,10 @@
 # Ein- und Ausgabeformat
 
-Diese Beschreibung ergänzt die Aufgabe in [`prose.md`](prose.md). Sie
+Diese Beschreibung ergänzt die Aufgabe in [`kata.md`](kata.md). Sie
 sagt, *wie* das Programm angesprochen wird — nicht, *was* es rechnet.
 Die Rechenregeln stehen ausschließlich in der Aufgabe.
+
+> *English version: [`io-format_en.md`](io-format_en.md)*
 
 Die Feldnamen sind **verbindlich** — sie umzubenennen oder
 umzustrukturieren steht nicht frei.
@@ -195,5 +197,5 @@ Wer solche Fragen hat, wendet sich an die Schadenskasse.
 - Das Programm liest von der Standardeingabe und schreibt auf die
   Standardausgabe.
 - Die Ausgabe ist ein einzelnes JSON-Dokument.
-- Innere Struktur, Modulaufteilung und Sprache sind frei, sofern das
-  Team sich nicht auf etwas anderes verständigt hat.
+- Programmiersprache, innerer Aufbau und Werkzeuge sind frei, sofern
+  das Team sich nicht auf etwas anderes verständigt hat.

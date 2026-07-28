@@ -2,6 +2,8 @@
 
 — oder, weil das selbst Sachverständigen Mühe bereitet: die HPSMV.
 
+> *English version: [`kata_en.md`](kata_en.md)*
+
 ## Eine kleine Vorstellung
 
 Die HPSMV ist eine der ältesten Versicherungsanstalten der zwölf
@@ -135,7 +137,7 @@ Sonderklauseln:
 Sie arbeiten — Glückwunsch! — am Verwaltungssystem der HPSMV. Ihr
 Auftrag ist überschaubar:
 
-- Eine Funktion, die für eine Liste von Gegenständen die
-  *Prämie* berechnet (im Kontor heißt das schlicht *quote*).
-- Eine Funktion, die einen *Schadensfall reguliert* gegen eine
-  bestehende Police und die Auszahlungssumme bestimmt (das *claim*).
+- Für eine Liste von Gegenständen die *Prämie* berechnen (im Kontor
+  heißt das schlicht *quote*).
+- Einen *Schadensfall regulieren* gegen eine bestehende Police und die
+  Auszahlungssumme bestimmen (das *claim*).
