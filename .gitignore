@@ -1,0 +1,26 @@
+# Abhängigkeiten und Build-Artefakte
+node_modules/
+dist/
+build/
+out/
+target/
+bin/
+obj/
+*.egg-info/
+__pycache__/
+.venv/
+venv/
+
+# Test- und Werkzeug-Ausgaben
+coverage/
+.coverage
+.pytest_cache/
+.mypy_cache/
+*.log
+
+# Editoren und Betriebssystem
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
