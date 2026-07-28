@@ -10,10 +10,10 @@ Ein Vorschlag für den Ablauf im Workshop steht separat in
 
 ## Setting
 
-Aufgabe: [`kata.md`](../kata.md) (Deutsch).
+Aufgabe: [`kata_de.md`](../kata_de.md) (Deutsch).
 
 Ein- und Ausgabeformat für die Teilnehmer:
-[`io-format.md`](../io-format.md). Beschreibt nur die
+[`io-format_de.md`](../io-format_de.md). Beschreibt nur die
 Schnittstelle, keine Rechenregeln — die Mehrdeutigkeiten bleiben also
 unangetastet.
 

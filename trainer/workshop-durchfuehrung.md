@@ -6,7 +6,7 @@ bezieht, stehen in [`trainer-notes.md`](trainer-notes.md).
 
 ## Empfohlener Ablauf (Halbtag, ca. 3 h)
 
-1. **Setting vorlesen / verteilen** ([`kata.md`](../kata.md)) — ca. 10 min
+1. **Setting vorlesen / verteilen** ([`kata_de.md`](../kata_de.md)) — ca. 10 min
 2. **Example Mapping in Kleingruppen** — ca. 45 min
    - Story-Karte (gelb): "Police berechnen / Schaden regulieren"
    - Regel-Karten (blau): aus dem Setting extrahieren
@@ -19,7 +19,7 @@ bezieht, stehen in [`trainer-notes.md`](trainer-notes.md).
    [`verifikation/szenarien/`](verifikation/szenarien/) als
    Akzeptanztests — ca. 20 min
 
-Das [Ein- und Ausgabeformat](../io-format.md) kommt
+Das [Ein- und Ausgabeformat](../io-format_de.md) kommt
 sinnvollerweise zu Schritt 4 dazu — oder schon zu Schritt 1, wenn die
 Gruppe früh wissen will, worauf sie zusteuert.
 
@@ -40,7 +40,7 @@ Gruppe früh wissen will, worauf sie zusteuert.
 - **Numerik nicht überstrapazieren.** Bei Zeitdruck reicht es, wenn die
   Regeln *qualitativ* korrekt umgesetzt werden — die exakten Goldstücke
   kann der Trainer nachrechnen.
-- **Keine Regeln erfinden.** Was nicht in `kata.md` steht, gibt es
+- **Keine Regeln erfinden.** Was nicht in `kata_de.md` steht, gibt es
   nicht. Eine im Plenum nachgeschobene Zusatzregel macht die Aufgabe
   für alle Gruppen ungleich schwerer.
 

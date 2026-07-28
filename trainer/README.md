@@ -12,8 +12,8 @@ gewählt hat, und welche Werte dabei herauskommen.
 | [`workshop-durchfuehrung.md`](workshop-durchfuehrung.md) | Ablaufvorschlag, Trainer-Tipps, Stolpersteine, Tonalität. |
 | [`verifikation/`](verifikation/) | Zehn Akzeptanz-Szenarien als JSON-Paare, mit [eigener Anleitung](verifikation/README.md). |
 
-Das Teilnehmer-Material liegt eine Ebene höher: [`kata.md`](../kata.md)
-und [`io-format.md`](../io-format.md), jeweils auch in englischer
+Das Teilnehmer-Material liegt eine Ebene höher: [`kata_de.md`](../kata_de.md)
+und [`io-format_de.md`](../io-format_de.md), jeweils auch in englischer
 Fassung.
 
 ## Warum ein eigener Branch
